@@ -2,13 +2,18 @@
   "name": "number-gessing-game-in-typescript",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
+  "description": "Number Gessing Game in TypeScript using Node.js",
   "main": "index.js",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Umar-Tariq/Number-Gessing-Game-in-Typescript"},
+    "homepage": "https://github.com/Umar-Tariq",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["TypeScript", "Node.js", "Number Gessing Game","Game"],
+  "author": "Umar Tariq",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.3.0",
